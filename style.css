@@ -24,8 +24,8 @@ body {
 }
 
 .header {
-  margin-top: 4rem;
-  margin-left: 4rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
 }
 
 .header-highlight {
@@ -34,8 +34,8 @@ body {
 
 .ul-list{
   font-weight:550;
-  margin-top: 4rem;
-  margin-left: 4rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
   font-size: large;
   list-style: none;
   line-height: 70px;
@@ -54,8 +54,8 @@ body {
 }
 
 .list-page{
-  margin-top: 4rem;
-  margin-left: 4rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
 }
 
 
@@ -83,7 +83,7 @@ footer p {
 }
 
 img {
-  width: 40px;
+  width: 30px;
   padding: 0.2rem;
 }
 
@@ -99,7 +99,7 @@ img {
 .ol-top-list{
   color: whitesmoke;
   text-decoration: none;
-  margin-left: 4rem;
+  margin-left: 1rem;
   line-height: 40px;
   font-size: 16px;
 }
